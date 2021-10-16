@@ -22,6 +22,8 @@
 [소수 찾기](/level1/primeNumberTest.js) | 단순 반복</br>
 [폰켓몬](/level1/phoneKetMon.js) | Reduce</br>
 [음양 더하기](/level1/plusOrMinus.js) | 단순 반복</br>
+[나머지가 1인 수](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B8%20%EC%88%98.js) | 단순 반복</br>
+[문자열 내 P와 Y의 개수](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20P%EC%99%80%20Y%EC%9D%98%20%EA%B0%9C%EC%88%98.js) | filter</br>
 
 
 #### 정규표현식 || 문자열
@@ -30,7 +32,8 @@
 [가운데 문자열](/level1/centerWord.js) | 문자열 나누기</br>
 [비밀지도](/level1/secretMap.js) | Kakao</br>
 [3진법 뒤집기](/level1/threeRadixReverse.js) | toString, reverse</br>
-
+[문자열 다루기 기본](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.js) | 정규표현식, test()</br>
+[서울에서 김서방 찾기](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.js) | ES6 template literal</br>
 
 #### 정렬
 [복서 정렬하기](/level1/boxerSorting.js) | 정렬조건 & 문자열 정렬</br> 
@@ -41,6 +44,8 @@
 [체육복](/level1/uniformShare.js) | 오름차순, Reduce</br>
 [실패율](/level1/failPercentage.js) | 특정 index 정렬</br> 
 [최소 직사각형](/level1/rectangle.js) | 특정 index 정렬</br>
+[문자열 내 마음대로 정렬](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.js) | 특정 index 비교 정렬</br>
+[문자열 내림차순 배치하기](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.js) | 내립차순</br>
 
 
 #### 탐색
@@ -51,5 +56,4 @@
 [완주하지 못한 선수](/level1/hash_playerSearch.js) | Object(hash table)</br>
 
 ---
-
 
