@@ -24,7 +24,11 @@
 [음양 더하기](/level1/plusOrMinus.js) | 단순 반복</br>
 [나머지가 1인 수](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B8%20%EC%88%98.js) | 단순 반복</br>
 [문자열 내 P와 Y의 개수](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20P%EC%99%80%20Y%EC%9D%98%20%EA%B0%9C%EC%88%98.js) | filter</br>
-
+[제일 작은 수 제거하기](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.js) | filter</br>
+[수박수박수박](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F.js)| 단순 반복 or Repeat</br>
+[약수의 합](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.js)| 단순 반복</br>
+[에라토스테네스의 체](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4.js)| 범위 내 소수 구하기(제곱 연산)</br>
+[자릿수 더하기](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.js)| filter</br>
 
 #### 정규표현식 || 문자열
 [신규 ID 추천](/level1/newIdValid.js) | Kakao</br>
@@ -34,6 +38,11 @@
 [3진법 뒤집기](/level1/threeRadixReverse.js) | toString, reverse</br>
 [문자열 다루기 기본](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.js) | 정규표현식, test()</br>
 [서울에서 김서방 찾기](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.js) | ES6 template literal</br>
+[문자열을 정수로 바꾸기](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js)| parseInt, 문자열 연산</br>
+[시저 암호](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.js)| ASCII CODE</br>
+[이상한 문자 만들기](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)| 정규표현식</br>
+[자연수 뒤집어 배열로 만들기](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)| 문자열 연산r</br>
+[정수 내림차순으로 배치하기](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.js)| split, sort, join</br>
 
 #### 정렬
 [복서 정렬하기](/level1/boxerSorting.js) | 정렬조건 & 문자열 정렬</br> 
@@ -55,5 +64,9 @@
 #### Hash
 [완주하지 못한 선수](/level1/hash_playerSearch.js) | Object(hash table)</br>
 
----
 
+#### 조건, 수 연산
+[짝수와 홀수](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.js) | Ternary</br>
+[정수 제곱근 판별](https://github.com/dongwu-kim/Algorithm/blob/main/level1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.js)| Ternary</br>
+
+---
